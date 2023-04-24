@@ -13,7 +13,8 @@
 
 - 💬 Ask me about **NodeJs, ExpressJs, MongoDB, JavaScript, Cricket & Gaming**
 
-- 👨‍💻 All of my projects are available at [Portfolio]("https://adesh856.github.io/")
+- 👨‍💻 All of my projects are available at <a href="https://adesh856.github.io/">Portfolio<a>
+	
  
 - 📫 How to reach me **adeshtayde6@gmail.com**
                    
