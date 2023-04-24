@@ -1,5 +1,21 @@
-# 💫 About Me:
-##A passionate Node Backend Developer
+<h1 align="center">Hi, I'm Adesh Tayde</h1>
+<h3 align="center">A Passionate Node Backend Developer</h3>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=7r-rishi&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi"/></p>
+<p align="left"><a href="https://twitter.com/" target="blank">
+	
+<div align="center">
+	<img align="center" src="https://i.ytimg.com/vi/_4kLioMoMrk/maxresdefault.jpg" alt="spring"  width="700" height="300">	
+</div>
+
+
+	
+- 🌱 I’m currently learning **NodeJS, ExpressJS, MongoDB**
+
+- 💬 Ask me about **NodeJs, ExpressJs, MongoDB, JavaScript, Cricket & Gaming**
+
+- 👨‍💻 All of my projects are available at [Portfolio]()
+ 
+- 📫 How to reach me **adeshtayde6@gmail.com**
                    
 
                      
