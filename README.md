@@ -1,5 +1,5 @@
 # 💫 About Me:
-                      <h1> A passionate Node Backend Developer</h1>
+                      A passionate Node Backend Developer
 
 
 ## 🌐 Socials:
