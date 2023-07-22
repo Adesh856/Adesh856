@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Adesh Tayde</h1>
-<h3 align="center">A Passionate NodeJs Backend Developer</h3>
+<h3 align="center">A Passionat Full Stack Developer</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=7r-rishi&label=Profile%20views&color=0e75b6&style=flat" alt="7r-rishi"/></p>
 <p align="left"><a href="https://twitter.com/" target="blank">
 	
